@@ -2,7 +2,7 @@
 
 ## Video
 
-<iframe src="https://www.youtube.com/embed/_Y6CwsYgqwI" title="Optimism 🛠 Getting Started with Optimism - Ori Pomerantz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![getting started video](https://img.youtube.com/vi/_Y6CwsYgqwI/default.jpg)](https://youtu.be/_Y6CwsYgqwI)
 
 ## Interacting with the testnet
 

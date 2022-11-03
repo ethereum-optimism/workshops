@@ -40,6 +40,7 @@ Our tutorial tells you how to use [Hardhat](https://github.com/ethereum-optimism
 ## I need more information
 
 - [User help center](https://help.optimism.io/hc/en-us)
+  - [Verifiable randomness function](https://community.optimism.io/docs/useful-tools/oracles/#verifiable-randomness-function-vrf)
 - [Developer docs](https://community.optimism.io/)
 - [Tutorials](https://github.com/ethereum-optimism/optimism-tutorial):
   - Getting started
